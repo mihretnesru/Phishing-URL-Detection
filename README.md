@@ -28,7 +28,7 @@ Phishing URLs are malicious links crafted to steal sensitive information like lo
 - Used stratified sampling and 3-fold cross-validation for robust evaluation.
 
 ### 3. Performance Metrics
-- Evaluated models using **Kappa Score** to address class imbalance.
+- Evaluated models using **Kappa Score** to address class imbalance, additionally **Accuracy** was evaluated
 - Confusion matrices analyzed for false positives and false negatives.
 
 ---
